@@ -1,4 +1,3 @@
-import '../component/dashboard.css'
 import CartBox from '../component/UI/cart';
 import ContentBox from '../component/UI/content-box';
 import React,{useEffect, useState} from 'react'

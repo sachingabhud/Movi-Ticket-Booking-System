@@ -11,7 +11,6 @@ import { BsCalendar4Event } from "react-icons/bs";
 import { BiTask,BiLogOut,BiLogIn } from "react-icons/bi";
 import { GrDocumentText } from "react-icons/gr";
 import { MdOutlineAppRegistration } from "react-icons/md";
-import '../component/dashboard.css'
 
 
 function Sidebar({...props}) {

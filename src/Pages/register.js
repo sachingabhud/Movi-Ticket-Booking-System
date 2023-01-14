@@ -1,6 +1,5 @@
 import React,{useEffect, useState} from 'react'
 import {useNavigate } from 'react-router-dom'
-import '../component/dashboard.css'
 function Register(){
     const navigate = useNavigate ();
     useEffect(()=>{

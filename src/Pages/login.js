@@ -1,7 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import {useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-import '../component/dashboard.css'
 function Login(){
     const [email,setEmail]=useState("");
     const [password,setPassword]=useState("");
